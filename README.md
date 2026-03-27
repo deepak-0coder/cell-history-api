@@ -69,3 +69,5 @@ A comprehensive timeline and educational resource documenting the milestones of 
 
 ### 💡 Conclusion
 This repository serves as a functional and historical proof that the **cell is the structural and functional unit of life**. By tracking these discoveries, we see how the human understanding of life shifted from "visible organs" to "microscopic units."
+
+### Gururaja Tata
