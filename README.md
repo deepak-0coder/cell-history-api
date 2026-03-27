@@ -1,4 +1,4 @@
-# 🔬 History of Cell Biology: 1665 - Present (2026)
+# History of Cell Biology: 1665 - Present (2026)
 A comprehensive timeline and educational resource documenting the milestones of cellular discovery.
 
 ---
