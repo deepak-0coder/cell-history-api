@@ -23,7 +23,7 @@ A comprehensive timeline and educational resource documenting the milestones of 
   * **Discovery:** First observation of 'cells' in cork tissue.
   * **Significance:** Named cellular structures; foundation of cell biology.
   * **Location:** England
-  * ![Robert Hooke Cork Cells](./cork cell.jpg)
+  * ![Robert Hooke Cork Cells](./cork-cell.jpg)
 * **1674 | Antonie van Leeuwenhoek**
   * **Discovery:** Observed microscopic organisms (protozoa and bacteria).
   * **Significance:** Revealed the existence of unicellular organisms.
